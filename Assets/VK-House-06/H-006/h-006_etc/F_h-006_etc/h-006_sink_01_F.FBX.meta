@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: f79b75eb9acd5134d9127b7287f99160
+timeCreated: 1485821525
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Cylinder001
+    100006: Object010
+    100008: Object011
+    100010: Object012
+    100012: Object013
+    100014: Object014
+    100016: Object017
+    100018: Object019
+    100020: Object022
+    100022: Object023
+    100024: Object024
+    100026: Object025
+    100028: Object026
+    100030: Object027
+    100032: Object031
+    100034: Object032
+    100036: h-006_sink_01_board
+    100038: h-006_sink_01_door_01_L
+    100040: h-006_sink_01_door_01_R
+    100042: h-006_sink_01_door_02_L
+    100044: h-006_sink_01_door_02_R
+    100046: h-006_sink_01_door_03_L
+    100048: h-006_sink_01_door_03_R
+    100050: h-006_sink_01_drawer_01
+    100052: h-006_sink_01_drawer_02
+    100054: h-006_sink_01_drawer_03
+    100056: h-006_sink_01_frame
+    100058: h-006_sink_01_range
+    100060: h-006_sink_01_range 1
+    100062: h-006_sink_01_range_switch_01
+    100064: h-006_sink_01_range_switch_02
+    100066: h-006_sink_01_range_switch_03
+    100068: h-006_sink_01_range_switch_04
+    100070: h-006_sink_01_sink
+    100072: h-006_sink_01_sink 1
+    100074: h-006_sink_01_sink_hose
+    100076: h-006_sink_01_sink_switch
+    400000: //RootNode
+    400002: Box001
+    400004: Cylinder001
+    400006: Object010
+    400008: Object011
+    400010: Object012
+    400012: Object013
+    400014: Object014
+    400016: Object017
+    400018: Object019
+    400020: Object022
+    400022: Object023
+    400024: Object024
+    400026: Object025
+    400028: Object026
+    400030: Object027
+    400032: Object031
+    400034: Object032
+    400036: h-006_sink_01_board
+    400038: h-006_sink_01_door_01_L
+    400040: h-006_sink_01_door_01_R
+    400042: h-006_sink_01_door_02_L
+    400044: h-006_sink_01_door_02_R
+    400046: h-006_sink_01_door_03_L
+    400048: h-006_sink_01_door_03_R
+    400050: h-006_sink_01_drawer_01
+    400052: h-006_sink_01_drawer_02
+    400054: h-006_sink_01_drawer_03
+    400056: h-006_sink_01_frame
+    400058: h-006_sink_01_range
+    400060: h-006_sink_01_range 1
+    400062: h-006_sink_01_range_switch_01
+    400064: h-006_sink_01_range_switch_02
+    400066: h-006_sink_01_range_switch_03
+    400068: h-006_sink_01_range_switch_04
+    400070: h-006_sink_01_sink
+    400072: h-006_sink_01_sink 1
+    400074: h-006_sink_01_sink_hose
+    400076: h-006_sink_01_sink_switch
+    2300000: //RootNode
+    2300002: Box001
+    2300004: Cylinder001
+    2300006: Object010
+    2300008: Object011
+    2300010: Object012
+    2300012: Object013
+    2300014: Object014
+    2300016: Object017
+    2300018: Object019
+    2300020: Object022
+    2300022: Object023
+    2300024: Object024
+    2300026: Object025
+    2300028: Object026
+    2300030: Object027
+    2300032: Object031
+    2300034: Object032
+    2300036: h-006_sink_01_board
+    2300038: h-006_sink_01_door_01_L
+    2300040: h-006_sink_01_door_01_R
+    2300042: h-006_sink_01_door_02_L
+    2300044: h-006_sink_01_door_02_R
+    2300046: h-006_sink_01_door_03_L
+    2300048: h-006_sink_01_door_03_R
+    2300050: h-006_sink_01_drawer_01
+    2300052: h-006_sink_01_drawer_02
+    2300054: h-006_sink_01_drawer_03
+    2300056: h-006_sink_01_frame
+    2300058: h-006_sink_01_range 1
+    2300060: h-006_sink_01_range_switch_01
+    2300062: h-006_sink_01_range_switch_02
+    2300064: h-006_sink_01_range_switch_03
+    2300066: h-006_sink_01_range_switch_04
+    2300068: h-006_sink_01_sink 1
+    2300070: h-006_sink_01_sink_hose
+    2300072: h-006_sink_01_sink_switch
+    3300000: //RootNode
+    3300002: Box001
+    3300004: Cylinder001
+    3300006: Object010
+    3300008: Object011
+    3300010: Object012
+    3300012: Object013
+    3300014: Object014
+    3300016: Object017
+    3300018: Object019
+    3300020: Object022
+    3300022: Object023
+    3300024: Object024
+    3300026: Object025
+    3300028: Object026
+    3300030: Object027
+    3300032: Object031
+    3300034: Object032
+    3300036: h-006_sink_01_board
+    3300038: h-006_sink_01_door_01_L
+    3300040: h-006_sink_01_door_01_R
+    3300042: h-006_sink_01_door_02_L
+    3300044: h-006_sink_01_door_02_R
+    3300046: h-006_sink_01_door_03_L
+    3300048: h-006_sink_01_door_03_R
+    3300050: h-006_sink_01_drawer_01
+    3300052: h-006_sink_01_drawer_02
+    3300054: h-006_sink_01_drawer_03
+    3300056: h-006_sink_01_frame
+    3300058: h-006_sink_01_range 1
+    3300060: h-006_sink_01_range_switch_01
+    3300062: h-006_sink_01_range_switch_02
+    3300064: h-006_sink_01_range_switch_03
+    3300066: h-006_sink_01_range_switch_04
+    3300068: h-006_sink_01_sink 1
+    3300070: h-006_sink_01_sink_hose
+    3300072: h-006_sink_01_sink_switch
+    4300000: Box001
+    4300002: Object010
+    4300004: Object011
+    4300006: Cylinder001
+    4300008: Object014
+    4300010: Object017
+    4300012: Object013
+    4300014: Object012
+    4300016: Object025
+    4300018: Object023
+    4300020: Object026
+    4300022: Object024
+    4300024: Object031
+    4300026: Object032
+    4300028: Object022
+    4300030: Object027
+    4300032: Object019
+    4300034: h-006_sink_01_board
+    4300036: h-006_sink_01_door_01_L
+    4300038: h-006_sink_01_frame
+    4300040: h-006_sink_01_door_01_R
+    4300042: h-006_sink_01_door_02_L
+    4300044: h-006_sink_01_door_02_R
+    4300046: h-006_sink_01_drawer_03
+    4300048: h-006_sink_01_drawer_02
+    4300050: h-006_sink_01_drawer_01
+    4300052: h-006_sink_01_door_03_L
+    4300054: h-006_sink_01_door_03_R
+    4300056: h-006_sink_01_sink
+    4300058: h-006_sink_01_sink_switch
+    4300060: h-006_sink_01_sink_hose
+    4300062: h-006_sink_01_range_switch_01
+    4300064: h-006_sink_01_range_switch_02
+    4300066: h-006_sink_01_range_switch_03
+    4300068: h-006_sink_01_range_switch_04
+    4300070: h-006_sink_01_range
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
